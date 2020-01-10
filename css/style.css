@@ -1,0 +1,154 @@
+body{
+  margin:0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  font-size:130%;
+
+}
+.full{
+  font-size: 1rem;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  color:#626567;
+}
+a{
+
+  text-decoration: none;
+  color:#1e836c;
+}
+a:hover{
+  color:#0B5345;
+}
+
+h1{
+  margin-top:0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  color:#1e836c;
+  font-size:4rem;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  margin-bottom: 20px;
+  color:#1e836c;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#1e836c;
+}
+hr{
+  border:dotted #5f6769 5px;
+  border-top:none;
+  width:5%;
+
+}
+
+
+
+.top-container{
+    background-color: #e4f9f5;
+    position:relative;
+    padding-top:110px;
+}
+.middle-container{
+ margin:100px 0;
+}
+.bottom-container{
+  background-color: #A3E4D7;
+  padding:30px 0 20px 0;
+  font-size:1rem;
+
+}
+.copyright{
+  color:#0B5345;
+  font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+}
+.top-cloud{
+  position:absolute;
+  top:50px;
+  right:330px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left:330px;
+  top:250px;
+
+
+}
+.developer-img{
+width: 50%;
+margin-top:80px;
+}
+.skills{
+      margin-top: 100px;
+      padding:0 20px 0 20px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+}
+.skill-row2{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height:2;
+  margin-top:150px;
+}
+.mypic{
+  width:18%;
+}
+.dev-img{
+  width:23%;
+  float:left;
+  margin-right:40px;
+}
+.design-img{
+  width:24%;
+  float:right;
+}
+
+.intro{
+  width:30%;
+  margin:auto;
+  line-height:2;
+  margin-bottom: 100px;
+}
+.idea{
+  line-height:2;
+  width:50%;
+  margin:auto;
+  padding:30px 0 30px 0;
+}
+.contact-me{
+  margin-top:80px;
+}
+.freelancer{
+  margin:40px 0 0 0;
+}
+
+.btn {
+
+	background-color:#1e836c;
+	border-radius:10px;
+	display:inline-block;
+  margin-top:30px;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:15px 22px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#1ABC9C;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
